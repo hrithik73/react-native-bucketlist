@@ -6,7 +6,6 @@
 
 - CSS basic
 - Layouts
-  - Float
   - Grid
   - Box Model
   - Flex-Box
@@ -50,27 +49,28 @@
 - Context
 - Refs
 - Higher Order Components
+- [Reference](https://beta.reactjs.org/)
 
 ## React Eco-System
 
 - Form Libraries
-  - Formik + Yup
-  - React-Hook-Forms
+  - [Formik](https://formik.org) + [Yup](https://github.com/jquense/yup)
+  - [React-Hook-Forms](https://react-hook-form.com)
 - Testing
-  - Jest
-  - Cypress
-  - React Testing library
+  - [Jest](https://jestjs.io)
+  - [Cypress]()
+  - [React Testing library]()
 - State Management
-  - Redux
-  - MobX
-  - Context
+  - [Redux](https://redux.js.org/)
+  - [MobX](https://mobx.js.org/README.html)
+  - [Context](https://reactjs.org/docs/context.html)
 - API Calling
-  - Fetch
-  - Axios
+  - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+  - [Axios](https://axios-http.com/)
 
 ### React-Native
 
-- Core Components
+- [Core Components](https://reactnative.dev/docs/intro-react-native-components)
   - View
   - Text
   - Flatlist
@@ -78,7 +78,6 @@
   - TextInput
   - ScrollView
   - Stylesheet
-  - Flatlist
   - Touchables
 
 ### Navigations
@@ -89,8 +88,8 @@
 
 ### Animations
 
-- Animated Core RN
-- Re-Animated
+- [Animated by React-Native](https://reactnative.dev/docs/animated)
+- [Re-Animated](https://docs.swmansion.com/react-native-reanimated)
 
 ### Firebase
 
